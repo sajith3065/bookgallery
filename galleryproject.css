@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(169, 217, 201);
+}
+.c{
+    width: 26%;
+    height: 432px;
+    border: white 2px solid;
+float: left;
+
+margin-top: 6px;
+margin-left: 70px;
+}
+h2{
+    text-align: center;
+font-size:xx-large;
+color: aliceblue;
+margin-top: -2px;
+}
+h3{
+    color: azure;
+    text-align: center;
+    margin-top: 4px;
+    font-size: larger;
+}
+img{
+    width: 74%;
+    height: 250px;
+    margin-top: -14px;
+    margin-left: 45px;
+    font-family: cursive;
+
+}
+p{
+    color: azure;
+    font-size: small;
+    padding: 11px;
+    margin-top: -3px;
+   
+}
+
+a{
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: black;
+}
